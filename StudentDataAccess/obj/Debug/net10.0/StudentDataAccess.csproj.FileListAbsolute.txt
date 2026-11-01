@@ -1,0 +1,12 @@
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/bin/Debug/net10.0/StudentDataAccess.deps.json
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/bin/Debug/net10.0/StudentDataAccess.dll
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/bin/Debug/net10.0/StudentDataAccess.pdb
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/StudentDataAccess.csproj.AssemblyReference.cache
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/StudentDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/StudentDataAccess.AssemblyInfoInputs.cache
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/StudentDataAccess.AssemblyInfo.cs
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/StudentDataAccess.csproj.CoreCompileInputs.cache
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/StudentDataAccess.dll
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/refint/StudentDataAccess.dll
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/StudentDataAccess.pdb
+/home/mamoun/VsProjects/StudentApi/StudentDataAccess/obj/Debug/net10.0/ref/StudentDataAccess.dll

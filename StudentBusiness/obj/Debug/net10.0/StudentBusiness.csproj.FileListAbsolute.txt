@@ -1,0 +1,15 @@
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/bin/Debug/net10.0/StudentBusiness.deps.json
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/bin/Debug/net10.0/StudentBusiness.dll
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/bin/Debug/net10.0/StudentBusiness.pdb
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/bin/Debug/net10.0/StudentDataAccess.dll
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/bin/Debug/net10.0/StudentDataAccess.pdb
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentBusiness.csproj.AssemblyReference.cache
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentBusiness.AssemblyInfoInputs.cache
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentBusiness.AssemblyInfo.cs
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentBusiness.csproj.CoreCompileInputs.cache
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentB.098B4CF0.Up2Date
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentBusiness.dll
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/refint/StudentBusiness.dll
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/StudentBusiness.pdb
+/home/mamoun/VsProjects/StudentApi/StudentBusiness/obj/Debug/net10.0/ref/StudentBusiness.dll
